@@ -1,23 +1,29 @@
-## **General:**
-  - Tone: Conversational, engaging, professional.
-  - Audience: Beginner to intermediate learners.
+### General Guidelines:
 
-## **Narrative:**
-  - Use "we."
-  - Keep under 250 words.
-  - Bullets: lowercase if not full sentences.
+- **Tone:** Conversational, engaging, professional.
+- **Audience:** Beginner to intermediate learners.
 
-## **Checkpoints:**
-  - Use "you."
-  - Add hints when needed.
-  - Provide syntax in hints if required.
+### Things to Keep in Mind While Writing Narrative:
 
-## **Initial Savepoint:**
-  - All necessary starter code is provided.
+- Use "we."
+- Keep the narrative under 250 words.
+- Bullets: lowercase if not full sentences.
 
-## **Final Savepoint:**
-  - Complete and correct solution.
+### Things to Keep in Mind While Writing Checkpoints:
 
-## **Tests:**
-  - Final savepoint should pass all tests.
-  - Ensure the opening and closing brackets are the same in regex.
+- Use "you."
+- Add hints when necessary.
+- Provide syntax in hints if required.
+
+### Initial Savepoint:
+
+- All necessary starter code is provided.
+
+### Final Savepoint:
+
+- Complete and correct solution.
+
+### Tests:
+
+- Final savepoint should pass all tests.
+- Ensure the opening and closing brackets are the same in regex.
